@@ -3,11 +3,11 @@
 **Languages:**
 
 <a href="https://www.linkedin.com/in/gergely-szuk%C3%A1cs-42151b197/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=szukacs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=ea3&text_color=9c8&icon_color=f82&bg_color=333&theme=graywhite" />
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=9c8&icon_color=fff&bg_color=333&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=szukacs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&background=333&ring=ea3&currStreakLabel=9c8&sideNums=9c8&currStreakNum=9c8&sideLabels9c8" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox" />
 
 
 
