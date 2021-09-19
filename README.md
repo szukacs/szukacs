@@ -44,7 +44,7 @@ https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png
     <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="left">
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
