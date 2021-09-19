@@ -31,7 +31,7 @@
     <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
 <h2 align="left">🌱 Currently learning:</h2>
