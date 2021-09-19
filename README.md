@@ -1,5 +1,5 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
-
+https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png
 <h2 align="left">🛠 Tools and technologies:</h2>
 <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
@@ -23,6 +23,9 @@
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" title ="MySQL"> <img
+            src="https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png"
+            alt="mysql" width="40" height="40" /> </a>
     <a href="https://www.liquibase.org" target="_blank" title ="Liquibase"> <img
             src="https://www.liquibase.org/wp-content/themes/liquibase/assets/img/cta-icon.svg"
             alt="liquibase" width="40" height="40" /> </a>
