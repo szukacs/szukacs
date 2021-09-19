@@ -22,6 +22,9 @@
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?         username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
+    </a>
 </p>
 
 <h3 align="left">🌱 Learning currently:</h3>
@@ -34,15 +37,13 @@
             alt="docker" width="40" height="40" /> </a>
 </p>
 
-<a href="https://www.linkedin.com/in/gergely-szuk%C3%A1cs-42151b197/">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=szukacs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" />
 </a>
 
-<a href="https://www.linkedin.com/in/gergely-szuk%C3%A1cs-42151b197/">
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
-</a>
 
-<a href="https://www.linkedin.com/in/gergely-szuk%C3%A1cs-42151b197/">
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox&fire=f82" />
 </a>
 
