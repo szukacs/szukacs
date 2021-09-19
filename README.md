@@ -8,6 +8,9 @@
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> <img
             src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
             alt="spring boot" width="40" height="40" /> </a>
+    <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
+            src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/jsf-logo.jpg"
+            alt="jsf" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
