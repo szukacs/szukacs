@@ -1,6 +1,6 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
 
-<h3 align="left">🛠 Tools and technologies:</h3>
+<h2 align="left">🛠 Tools and technologies:</h2>
 <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
@@ -33,7 +33,7 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
-<h3 align="left">🌱 Learning currently:</h3>
+<h2 align="left">🌱 Learning currently:</h2>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -43,7 +43,7 @@
             alt="docker" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">💡 Other stats:</h3>
+<h2 align="left">💡 Other stats:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=szukacs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" />
