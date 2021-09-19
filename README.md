@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
+### Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views">
 
 <h3 align="left">Tech stack:</h3>
 <p align="left">
@@ -26,8 +26,6 @@
 
 <h3 align="left">🌱 Learning currently:</h3>
 <p align="left">
-  https://galaxyproject.github.io/training-material/topics/admin/images/docker_whale.png
-https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
