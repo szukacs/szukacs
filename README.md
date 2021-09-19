@@ -1,6 +1,6 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
 
-<h3 align="left">Tools and technologies:</h3>
+<h3 align="left">🛠 Tools and technologies:</h3>
 <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
