@@ -44,7 +44,7 @@
     <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats">
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" align="right" />
 </a>
 
@@ -69,7 +69,7 @@
 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox&fire=f82" />
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox&fire=f82" align="right" />
 </a>
 
 
