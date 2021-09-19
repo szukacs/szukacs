@@ -3,7 +3,7 @@
 <h3 align="left">Tech stack:</h3>
 <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
-            src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
+            src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
             alt="java" width="40" height="40" /> </a>
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> <img
             src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
