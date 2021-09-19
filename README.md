@@ -9,7 +9,7 @@
             src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
             alt="spring boot" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
-            src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/jsf-logo.jpg"
+            src="https://pbs.twimg.com/profile_images/1352023473/jsf-logo-no-text.png"
             alt="jsf" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -23,6 +23,9 @@
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.liquibase.org" target="_blank" title ="Liquibase"> <img
+            src="https://www.liquibase.org/wp-content/themes/liquibase/assets/img/cta-icon.svg"
+            alt="liquibase" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
@@ -31,7 +34,7 @@
             alt="heroku" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" title ="GitHub"> <img
+    <a href="https://github.com" target="_blank" title ="GitHub"> <img
             src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
     <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
