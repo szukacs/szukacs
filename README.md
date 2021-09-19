@@ -1,5 +1,5 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
-https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png
+
 <h2 align="left">🛠 Tools and technologies:</h2>
 
 <p align="left">
