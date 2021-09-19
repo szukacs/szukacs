@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szukacs&count_private=true&show_icons=true&theme=merko&bg_color=#000000) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
