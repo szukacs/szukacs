@@ -7,7 +7,7 @@
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox&fire=f82" />
 
 
 
