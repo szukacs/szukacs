@@ -17,7 +17,7 @@
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank" title ="GitHub"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40"
+            src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
     <a href="https://heroku.com" target="_blank" title ="heroku"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
