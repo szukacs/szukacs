@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szukacs&count_private=true&show_icons=true&hide_title=true&theme=merko) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szukacs&count_private=true&show_icons=true&theme=merko) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=highcontrast)](https://git.io/streak-stats)
 
 
