@@ -43,10 +43,11 @@
             alt="docker" width="40" height="40" /> </a>
 </p>
 
+<h3 align="left">💡 Other stats:</h3>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=szukacs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" />
 </a>
-
 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
