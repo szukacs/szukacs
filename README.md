@@ -39,7 +39,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" title ="Docker"> <img
-            src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"
+            src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png"
             alt="docker" width="40" height="40" /> </a>
 </p>
 
