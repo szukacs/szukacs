@@ -28,12 +28,13 @@
     <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
+    <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
 
-<h2 align="left">🌱 Learning currently:</h2>
+<h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
