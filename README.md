@@ -1,16 +1,17 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
 https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png
 <h2 align="left">🛠 Tools and technologies:</h2>
-<p align="left">
+<div>
+    <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
             alt="java" width="40" height="40" /> </a>
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> <img
             src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
             alt="spring boot" width="40" height="40" /> </a>
-    <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
+<!--    <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
             src="https://pbs.twimg.com/profile_images/1352023473/jsf-logo-no-text.png"
-            alt="jsf" width="40" height="40" /> </a>
+            alt="jsf" width="40" height="40" /> </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
@@ -42,9 +43,14 @@ https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png
             height="40" /> </a>
     <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
-</a>
+  </a>
+</div>
+
+
 
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
