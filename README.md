@@ -22,10 +22,10 @@
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?         username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
-    </a>
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/? username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
+</a>
 
 <h3 align="left">🌱 Learning currently:</h3>
 <p align="left">
