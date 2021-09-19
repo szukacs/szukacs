@@ -6,7 +6,7 @@
             src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
             alt="java" width="40" height="40" /> </a>
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> <img
-            src="https://www.clipartmax.com/png/middle/354-3543373_spring-framework-logo-svg-png-download-java-spring.png"
+            src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
             alt="spring boot" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
