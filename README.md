@@ -1,6 +1,6 @@
 <h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
 
-<h3 align="left">Tech stack:</h3>
+<h3 align="left">Tools and technologies:</h3>
 <p align="left">
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
@@ -16,6 +16,9 @@
             alt="css3" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://postman.com" target="_blank" title ="GitHub"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40"
+            height="40" /> </a>
     <a href="https://heroku.com" target="_blank" title ="heroku"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
             alt="heroku" width="40" height="40" /> </a>
@@ -25,9 +28,6 @@
     <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
