@@ -13,7 +13,7 @@
             src="https://4.bp.blogspot.com/-sEaH7Y3Ewcw/V9TkAMxRgdI/AAAAAAAABLE/VcT4iKMwmtwRWu_u3VXHlE8LrHARMopFgCLcB/s350/jsf.png"
             alt="jsf" width="40" height="40" /> </a> 
         <a href="https://gradle.org/" target="_blank" title ="Gradle"> <img
-            src="https://mpng.subpng.com/20180806/vhy/kisspng-gradle-computer-icons-transparency-logo-scalable-v-sharing-happiness-clipart-transparent-background-c-5b68e98bad79c6.7645488515336021877106.jpg"
+            src="https://repository-images.githubusercontent.com/128813134/dbe0a100-bafb-11e9-98fe-9e120d9de8e7"
             alt="gradle" width="40" height="40" /> </a>
     <a href="https://www.primefaces.org/" target="_blank" title ="PrimeFaces"> <img
             src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png"
