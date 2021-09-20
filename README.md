@@ -53,9 +53,13 @@
 
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
+    
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
+    <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
+            src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"
+            alt="redux" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" title ="Docker"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png"
             alt="docker" width="40" height="40" /> </a>
