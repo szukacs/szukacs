@@ -12,6 +12,9 @@
     <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="Java Server Faces"> <img
             src="https://4.bp.blogspot.com/-sEaH7Y3Ewcw/V9TkAMxRgdI/AAAAAAAABLE/VcT4iKMwmtwRWu_u3VXHlE8LrHARMopFgCLcB/s350/jsf.png"
             alt="jsf" width="40" height="40" /> </a> 
+        <a href="https://gradle.org/" target="_blank" title ="Gradle"> <img
+            src="https://seeklogo.com/images/G/gradle-logo-AFA2BBCB65-seeklogo.com.png"
+            alt="gradle" width="40" height="40" /> </a>
     <a href="https://www.primefaces.org/" target="_blank" title ="PrimeFaces"> <img
             src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png"
             alt="primefaces" width="40" height="40" /> </a>
