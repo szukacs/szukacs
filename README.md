@@ -64,7 +64,11 @@
             alt="redux" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" title ="Docker"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png"
-            alt="docker" width="40" height="40" /> </a>
+            alt="docker" width="40" height="40" /> </a> 
+    <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
+            src="https://user-images.githubusercontent.com/56692647/134068189-319e8c3d-8bd4-49e9-9de9-95ee32d8296b.png"
+            alt="firebase" width="40" height="40" /> </a> 
+
 </p>
 
 <h2 align="left">💡 Other stats:</h2>
