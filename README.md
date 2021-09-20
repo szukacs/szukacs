@@ -9,9 +9,9 @@
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> <img
             src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"
             alt="spring boot" width="40" height="40" /> </a>
-<!--    <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
-            src="https://pbs.twimg.com/profile_images/1352023473/jsf-logo-no-text.png"
-            alt="jsf" width="40" height="40" /> </a> -->
+    <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" title ="JAva Server Faces"> <img
+            src="https://www.mistra.fr/wp-content/uploads/2019/05/jsf-1.png"
+            alt="jsf" width="40" height="40" /> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
