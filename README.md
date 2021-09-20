@@ -47,7 +47,7 @@
     <a href="https://github.com" target="_blank" title ="GitHub"> <img
             src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
-    <!--gradle, gitlab, intellij, liquibase, jsf ect...-->
+    <!--robotframework, gitlab, intellij, ect...-->
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
