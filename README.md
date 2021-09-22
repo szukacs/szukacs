@@ -49,7 +49,7 @@
     <a href="https://github.com" target="_blank" title ="GitHub"> <img
             src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
-    <!--robotframework, gitlab, intellij, ect...-->
+    <!--robotframework, gitlab, ect...-->
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
