@@ -53,7 +53,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" align="right" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=gruvbox" align="right" />
 </a>
 
 
