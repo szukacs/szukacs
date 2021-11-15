@@ -73,7 +73,10 @@
     <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
             src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
             alt="firebase" width="40" height="40" /> </a> 
-
+        <a href="https://golang.org/" target="_blank" title ="Go Lang"> <img
+            src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
+            alt="go" width="40" height="40" /> </a> 
+    
 </p>
 
 <h2 align="left">💡 Other stats:</h2>
