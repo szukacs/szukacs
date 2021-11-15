@@ -74,7 +74,7 @@
             src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
             alt="firebase" width="40" height="40" /> </a> 
         <a href="https://golang.org/" target="_blank" title ="Go Lang"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png"
+            src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
             alt="go" width="40" height="40" /> </a> 
     
 </p>
