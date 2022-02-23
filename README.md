@@ -49,6 +49,9 @@
     <a href="https://github.com" target="_blank" title ="GitHub"> <img
             src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
+    <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
+            src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+            alt="redux" width="40" height="40" /> </a>
     <!--robotframework, gitlab, ect... -->
 </p>
 
@@ -64,9 +67,6 @@
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
-            src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-            alt="redux" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" title ="Docker"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png"
             alt="docker" width="40" height="40" /> </a> 
