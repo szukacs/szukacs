@@ -88,8 +88,6 @@
   <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=szukacs&theme=dark&hide_border=true&theme=gruvbox&fire=f82" align="right" />
 </a>
 
-## 🎧 Spotify Playing
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/gutzss)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szukacs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
