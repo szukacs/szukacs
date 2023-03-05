@@ -4,7 +4,7 @@
 
 <p align="left">
     
-    <!-- Java -->
+    
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
             alt="java" width="40" height="40" /> </a>
