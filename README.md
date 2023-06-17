@@ -1,4 +1,4 @@
-<h1>Hi there 👋 <img align="right" src="https://gpvc.arturio.dev/szukacs" alt="Profile views"></h1> 
+<h1>Hi there 👋 </h1> 
 
 <h2 align="left">🛠 Currently used tools and technologies:</h2>
 <p align="left">
