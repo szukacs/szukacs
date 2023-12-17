@@ -64,7 +64,7 @@
     <!-- Firebase -->
         <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
             src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
-            alt="firebase" width="40" height="40" /> </a>ú
+            alt="firebase" width="40" height="40" /> </a>
     <!-- Redux -->
         <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
             src="https://cdn.worldvectorlogo.com/logos/redux.svg"
