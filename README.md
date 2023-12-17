@@ -11,9 +11,6 @@
     <a href="https://gradle.org/" target="_blank" title ="Gradle"> <img
             src="https://repository-images.githubusercontent.com/128813134/dbe0a100-bafb-11e9-98fe-9e120d9de8e7"
             alt="gradle" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
@@ -33,14 +30,19 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij idea" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
-            src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-            alt="redux" width="40" height="40" /> </a>
     <a href="https://github.com" target="_blank" title ="GitHub"> <img
             src="https://logodix.com/logo/64439.png" alt="github" width="40"
             height="40" /> </a>
-        <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
+    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
+    <!-- Next.js -->
+    <a href="https://nextjs.org/" target="_blank" title ="Next.js"> <img
+            src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+            alt="react" width="40" height="40" /> </a>
+    <!-- TypeScript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" title ="TypeScript"> <img
+            src="https://www.svgrepo.com/show/374144/typescript.svg"
             alt="react" width="40" height="40" /> </a>
     <!--robotframework, gitlab, ect... -->
 </p>
@@ -62,7 +64,15 @@
     <!-- Firebase -->
         <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
             src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
-            alt="firebase" width="40" height="40" /> </a> 
+            alt="firebase" width="40" height="40" /> </a>ú
+    <!-- Redux -->
+        <a href="https://redux.js.org/" target="_blank" title ="Redux"> <img
+            src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+            alt="redux" width="40" height="40" /> </a>
+    <!-- Javascript -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
